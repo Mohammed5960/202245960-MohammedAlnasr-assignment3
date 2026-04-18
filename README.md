@@ -55,7 +55,9 @@ The goal of this project is to create a more dynamic and interactive web applica
 ## How to Run the Project
 
 1. Clone the repository:
+```bash
 git clone https://github.com/Mohammed5960/202245960-MohammedAlnasr-assignment3.git
+
 
 2. Open the project folder
 
